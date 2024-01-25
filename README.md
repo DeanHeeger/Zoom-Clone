@@ -6,3 +6,7 @@ Tech used:
 - Node.js
 - HTML
 - CSS
+- Express
+- Socket
+- Web RTC
+- 
